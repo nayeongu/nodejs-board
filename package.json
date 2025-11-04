@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-board",
+  "version": "1.0.0",
+  "description": "자유 게시판 / 공지사항을 nodejs + express + mysql 로 개발",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3"
+  }
+}
